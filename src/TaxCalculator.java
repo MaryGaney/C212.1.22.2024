@@ -38,4 +38,13 @@ public class TaxCalculator {
         System.out.println("tax is " + tax);
 
     }
+
+    /**
+     * returns the cube of a number
+     * @param s: input
+     * @return the cube of the s
+     */
+    public static double cubeVolume(double s){
+
+    }
 }
